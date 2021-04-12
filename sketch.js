@@ -1,5 +1,5 @@
 var dog,sadDog,happyDog;
-var addFood, feedPet, foodObj, foodS;
+var addFood, feedPet, foodObj, foodS = 0;
 var lastFed
 
 
